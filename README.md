@@ -13,7 +13,8 @@ body .ts-animatedd,
 body #tlbstoolbar,
 body tlbs-flux,
 body iframe,
-body #_ta_qaz_wrap {
+body #_ta_qaz_wrap,
+body>div[tt-ignored-node="1"] {
     display: none!important;
 }
 ```
